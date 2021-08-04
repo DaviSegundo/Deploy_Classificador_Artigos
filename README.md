@@ -18,9 +18,9 @@ python main.py
 
 
 ## Tela Inicial:
-![TelaInicial](docs\tela_artigo.png)
+![TelaInicial](./docs/tela_artigo.png)
 
 ##### Para executar digite um artigo que deseja classificar e submeta para a API.
 
 ## Classificação de um artigo:
-![TelaClass](docs\tela_class.png)
+![TelaClass](./docs/tela_class.png)
